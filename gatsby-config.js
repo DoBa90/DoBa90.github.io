@@ -3,7 +3,7 @@ require(`dotenv`).config()
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 module.exports = {
-  pathPrefix: "/DoBa90.github.io",
+  pathPrefix: "/doba90.github.io",
   siteMetadata: {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
